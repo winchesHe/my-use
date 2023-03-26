@@ -1,8 +1,11 @@
 # mac 使用
 - [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)自动补全及美化终端
-- [fig](https://fig.io/)应用类交互安装插件，自动补全
-- [shottr](https://shottr.cc/)支持orc、长截图、贴图的免费截图软件 **ishot pro** 需付费但比较好用
-- gitfox 视频简介，git剪辑
+- [Fig](https://fig.io/)应用类交互安装插件，自动补全
+- [Shottr](https://shottr.cc/)支持orc、长截图、贴图的免费截图软件 **ishot pro** 需付费但比较好用
+- Gitfox 视频简介，git剪辑
+- Keka 解压工具
+- 超级右键 拓展右键
+- Cursor gpt-4的软件编辑器
 
 # win 使用
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)[分享一个windows terminal配置方案（oh-my-posh3）](https://zhuanlan.zhihu.com/p/579319260)
