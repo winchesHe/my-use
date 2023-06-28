@@ -10,8 +10,8 @@
 # win 使用
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)[分享一个windows terminal配置方案（oh-my-posh3）](https://zhuanlan.zhihu.com/p/579319260)
 - [Autosuggestion](https://dev.to/animo/fish-like-autosuggestion-in-powershell-21ec) 自动补全，只能提示
-- [powerToy](https://github.com/microsoft/PowerToys)强大的拓展功能（支持orc）
-- [snipaste](https://www.snipaste.com/download.html)简易的截屏软件
+- [powerToy](https://github.com/microsoft/PowerToys) 强大的拓展功能（支持orc）
+- [snipaste](https://www.snipaste.com/download.html) 简易的截屏软件
 
 # vscode 的使用
 auto reveal 可以控制资源管理器是否应在打开文件时自动显示并选择文件
