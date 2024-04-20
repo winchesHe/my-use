@@ -6,6 +6,7 @@
 - Keka 解压工具
 - 超级右键 拓展右键
 - Cursor gpt-4的软件编辑器
+- [dua-cli](https://github.com/Byron/dua-cli)
 
 # win 使用
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)[分享一个windows terminal配置方案（oh-my-posh3）](https://zhuanlan.zhihu.com/p/579319260)
