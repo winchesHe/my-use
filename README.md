@@ -7,6 +7,7 @@
 - 超级右键 拓展右键
 - Cursor gpt-4的软件编辑器
 - [dua-cli](https://github.com/Byron/dua-cli) 清理硬盘
+- [https://www.screen.studio/ 屏幕录制工具可以放大字幕](https://www.screen.studio/)
 
 # win 使用
 - [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)[分享一个windows terminal配置方案（oh-my-posh3）](https://zhuanlan.zhihu.com/p/579319260)
